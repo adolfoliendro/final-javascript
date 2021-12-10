@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "direccion": "FLORES 2155",
+    "tipo": "DEPARTAMENTO",
+    "precio": 105,
+    "moneda": "USD"
+  },
+  {
+    "id": 2,
+    "direccion": "LIBERTADOR 1205",
+    "tipo": "DEPARTAMENTO",
+    "precio": 29000,
+    "moneda": "ARS"
+  },
+  {
+    "id": 3,
+    "direccion": "SAN MARTIN 846",
+    "tipo": "CASA",
+    "precio": 31000,
+    "moneda": "ARS"
+  },
+  {
+    "id": 4,
+    "direccion": "ROSAS 1206",
+    "tipo": "CASA",
+    "precio": 26500,
+    "moneda": "ARS"
+  },
+  {
+    "id": 5,
+    "direccion": "URUGUAY 423",
+    "tipo": "DEPARTAMENTO",
+    "precio": 35000,
+    "moneda": "ARS"
+  },
+  {
+    "id": 6,
+    "direccion": "LOS SAUCES 1452",
+    "tipo": "CASA",
+    "precio": 150,
+    "moneda": "USD"
+  },
+  {
+    "id": 7,
+    "direccion": "PUEYRREDON 120",
+    "tipo": "DEPARTAMENTO",
+    "precio": 117,
+    "moneda": "USD"
+  },
+  {
+    "id": 8,
+    "direccion": "ALSINA 1420",
+    "tipo": "CASA",
+    "precio": 33000,
+    "moneda": "ARS"
+  },
+  {
+    "id": 9,
+    "direccion": "MATADEROS 1110",
+    "tipo": "CASA",
+    "precio": 72,
+    "moneda": "USD"
+  },
+  {
+    "id": 10,
+    "direccion": "SUAREZ 7445",
+    "tipo": "DEPARTAMENTO",
+    "precio": 18500,
+    "moneda": "ARS"
+  },
+  {
+    "id": 11,
+    "direccion": "PERON 1447",
+    "tipo": "DEPARTAMENTO",
+    "precio": 23500,
+    "moneda": "ARS"
+  },
+  {
+    "id": 12,
+    "direccion": "INDEPENDENCIA 7115",
+    "tipo": "CASA",
+    "precio": 375,
+    "moneda": "USD"
+  }
+]
